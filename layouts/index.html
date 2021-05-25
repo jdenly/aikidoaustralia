@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+<section>
+  <div class="container-fluid">
+    <div class="post">
+      <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
+      <div class="post-content">
+        <h2 class="post-title" style="margin-bottom: 200px">{{ .Title }}</h2>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <h1 class="mb-4">{{ .Title }}</h1>
+        <div class="content">{{.Content}}</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ if .Site.DisqusShortname }}
+<section class="section-sm bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        {{ template "_internal/disqus.html" . }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ end }}

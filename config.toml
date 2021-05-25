@@ -1,0 +1,148 @@
+######################## default configuration ####################
+baseURL = "https://aikidoaustralia.com.au"
+title = "Sydney Aikikai"
+theme = "persian"
+languageName = "En"
+languageCode = "en-us"
+# post pagination
+paginate = "5"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+
+
+############################# output ##############################
+[outputs]
+home = [ "HTML", "RSS", "json"]
+
+# render unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+################################ menu ##################################
+[[menu.main]]
+identifier = "about"
+name = "About us"
+url = "about"
+weight = 2
+
+[[menu.main]]
+identifier = "training-timetable"
+name = "Training timetable"
+url = "training-timetable"
+weight = 3
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "contact"
+weight = 4
+
+[[menu.main]]
+identifier = "membership"
+name = "Membership"
+weight = 5
+
+[[menu.main]]
+identifier = "becoming-member"
+name = "Becoming a member"
+url = "membership"
+parent = "membership"
+weight = 6
+
+[[menu.main]]
+identifier = "dojo-etiquette"
+name = "Dojo etiquette"
+url = "dojo-etiquette"
+parent = "membership"
+weight = 7
+
+[[menu.main]]
+identifier = "membership-form"
+name = "Membership form"
+url = "membership-form"
+parent = "membership"
+weight = 8
+
+[[menu.main]]
+identifier = "locations"
+name = "Locations"
+url = "locations"
+weight = 9
+
+[[menu.main]]
+identifier = "teachers"
+name = "Teachers"
+url = "teachers"
+weight = 10
+
+[[menu.main]]
+identifier = "links"
+name = "Links"
+url = "links"
+weight = 11
+
+[[menu.main]]
+identifier = "eulogies"
+name = "Eulogies"
+weight = 12
+
+[[menu.main]]
+identifier = "eulogy-ken-cottier-shihan"
+name = "Eulogy to Ken Cottier Shihan"
+url = "ken-cottier-shihan"
+parent = "eulogies"
+weight = 13
+
+[[menu.main]]
+identifier = "covid-safe"
+name = "Covid safe"
+url = "covid-safe"
+weight = 14
+
+
+#################### default parameters ################################
+[params]
+logo = "images/kanji_aikido.jpg"
+# Meta data
+description = "This is meta description"
+author = "Sydney Aikikai"
+# search
+search = false
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# copyright
+copyright = ""
+# Custom CSS to add to head
+custom_css = ["css/map.css"]
+# Custom JS to add to head
+custom_js = ["js/map.js"]
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2

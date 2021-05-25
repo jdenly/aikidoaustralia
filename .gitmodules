@@ -1,0 +1,9 @@
+[submodule "themes/zen"]
+	path = themes/zen
+	url = https://github.com/frjo/hugo-theme-zen.git
+[submodule "themes/persian-hugo"]
+	path = themes/persian-hugo
+	url = https://github.com/themefisher/persian-hugo.git
+[submodule "themes/persian"]
+	path = themes/persian
+	url = https://github.com/themefisher/persian-hugo.git
