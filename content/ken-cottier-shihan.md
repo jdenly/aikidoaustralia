@@ -3,9 +3,7 @@ title: "Ken Cottier Shihan"
 type: "static"
 date: 2021-05-20T21:00:20+10:00
 image: "images/lily.jpg"
-draft: true
 ---
-
 ## Goodbye to an old and dear friend.
 
 I first met Ken in 1973 at the Vernon Sangster centre in Liverpool England. He was living in Japan at the time and would visit our club when he travelled back to England. He would take classes on these occasions, so after the class I would quiz Ken about Japan, as I was keen to train at Hombu. Ken was very helpful and supportive, and even put me up in his flat until I found accommodation. He was also instrumental in arranging my visa approvals and in many other ways made my stay in Japan an unforgettable experience.

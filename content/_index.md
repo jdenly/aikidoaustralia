@@ -3,8 +3,7 @@ title: "Sydney Aikikai"
 date: 2020-05-12T12:14:34+06:00
 image: "images/tori.jpg"
 author: "Sydney Aikikai" # use capitalize
-description: "This is meta description."
-draft: false
+description: "Aikido club on Sydney's Northern Beaches."
 ---
 > We are a Covid Safe Business – [please check our plan before training](/covid-safe)
 

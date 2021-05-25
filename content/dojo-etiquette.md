@@ -3,7 +3,6 @@ title: "Dojo etiquette"
 type: "static"
 date: 2021-05-19T21:26:48+10:00
 image: "images/tatami-door.jpg"
-draft: true
 ---
 - When entering or leaving the dojo, it is proper to bow in the direction of O Sensei’s picture, the kamiza, or the front of the dojo. You should also bow when entering or leaving the mat.
 

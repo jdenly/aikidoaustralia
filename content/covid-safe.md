@@ -3,7 +3,6 @@ title: "Covid safe"
 type: "static"
 image: "images/hands-washing.jpg"
 date: 2021-05-20T21:00:33+10:00
-draft: true
 ---
 We are taking precautions to stay covid safe. The following rules must be agreed to and followed in order to attend classes.
 

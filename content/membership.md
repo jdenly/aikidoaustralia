@@ -3,7 +3,6 @@ title: "Membership"
 type: "static"
 image: "images/dojo.jpg"
 date: 2021-05-20T20:58:41+10:00
-draft: true
 ---
 Before joining please come along to the dojo and watch a class to make sure you understand what we’re about. This will also give you an opportunity to ask any questions.
 

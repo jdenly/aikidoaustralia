@@ -3,7 +3,6 @@ title: "Locations"
 type: "static"
 date: 2021-05-20T20:59:33+10:00
 image: "images/window.jpg"
-draft: true
 ---
 ## Manly
 

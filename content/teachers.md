@@ -3,7 +3,6 @@ title: "Teachers"
 type: "static"
 image: "images/hands.jpg"
 date: 2021-05-20T20:59:48+10:00
-draft: true
 ---
 ## Paul Sinkinson
 

@@ -3,7 +3,6 @@ title: "Contact"
 type: "static"
 image: "images/phone.jpg"
 date: 2021-05-19T21:26:09+10:00
-draft: true
 ---
 Paul Sinkinson mobile telephone no: 0419 911538
 
