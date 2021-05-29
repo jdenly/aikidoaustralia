@@ -41,7 +41,7 @@ link = "plugins/search/search.js"
 ################################ menu ##################################
 [[menu.main]]
 identifier = "about"
-name = "About us"
+name = "About"
 url = "about"
 weight = 2
 
@@ -124,7 +124,7 @@ weight = 14
 [params]
 logo = "images/kanji_aikido.jpg"
 # Meta data
-description = "This is meta description"
+description = "Aikido martial arts club on Sydney's Northern Beaches."
 author = "Sydney Aikikai"
 # search
 search = false
@@ -133,9 +133,9 @@ contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
 copyright = ""
 # Custom CSS to add to head
-custom_css = ["css/map.css"]
+custom_css = []
 # Custom JS to add to head
-custom_js = ["js/map.js"]
+custom_js = []
 
 # Preloader
 [params.preloader]
