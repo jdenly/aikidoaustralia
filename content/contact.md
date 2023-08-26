@@ -4,7 +4,7 @@ type: "static"
 image: "images/phone.jpg"
 date: 2021-05-19T21:26:09+10:00
 ---
-Paul Sinkinson mobile telephone no: 0419 911538
+Contact Tiong Chandra with any queries, mobile telephone no: 0413 302182
 
 <div id="wufoo-m195mlw90qonwtr">
 Fill out my <a href="https://aikidoaustralia.wufoo.com/forms/m195mlw90qonwtr">online form</a>.
