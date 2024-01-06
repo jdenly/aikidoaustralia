@@ -11,9 +11,9 @@ We have classes at two [locations](/locations) on the Northern Beaches. All clas
 
 Sunday – 9am to 11am, general training.
 
+Monday - 7pm to 8pm, general training.
+
 ## Collaroy
 
-Wednesday – 7pm to 9pm, general training.
-
-For timetable changes, for example over the summer break, please check the [timetable category](/timetable-changes).
+Wednesday – 7pm to 8pm, general training.
 

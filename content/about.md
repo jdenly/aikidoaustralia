@@ -7,6 +7,4 @@ description: "About Sydney Aikikai."
 ---
 Sydney Aikikai is a not for profit and independent Aikikai dojo on Sydney&#8217;s Northern Beaches. We run classes in Manly and Collaroy.
 
-We began training in March, 2001.
-
-<div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'s6lUbNooK_sBNHqr0OSA'});Pixlee.addSimpleWidget({widgetId:'33186'});};</script><script src="//instafeed.assets.pxlecdn.com/assets/pixlee_widget_1_0_0.js"></script>
+<script type="text/javascript" src="https://www.juicer.io/embed/sydney_aikikai/embed-code.js" async defer></script>
