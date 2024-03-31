@@ -101,25 +101,6 @@ name = "Links"
 url = "links"
 weight = 11
 
-[[menu.main]]
-identifier = "eulogies"
-name = "Eulogies"
-weight = 12
-
-[[menu.main]]
-identifier = "eulogy-ken-cottier-shihan"
-name = "Eulogy to Ken Cottier Shihan"
-url = "ken-cottier-shihan"
-parent = "eulogies"
-weight = 13
-
-[[menu.main]]
-identifier = "covid-safe"
-name = "Covid safe"
-url = "covid-safe"
-weight = 14
-
-
 #################### default parameters ################################
 [params]
 logo = "images/kanji_aikido.jpg"

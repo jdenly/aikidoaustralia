@@ -5,8 +5,6 @@ image: "images/tori.jpg"
 author: "Sydney Aikikai" # use capitalize
 description: "Aikido club on Sydney's Northern Beaches."
 ---
-> We are a Covid Safe Business – [please check our plan before training](/covid-safe)
-
 We are a friendly Aikido Club located on Sydney’s Northern Beaches. New members are always welcome and encouraged to join us.
 
 Beginners are introduced slowly to Aikido in a friendly manner with an instructor or other senior people on the mat spending time with basics. Students are then introduced to participating with others in training. A good foundation begins with attention to basics.
