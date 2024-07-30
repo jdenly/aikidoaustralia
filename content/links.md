@@ -51,8 +51,3 @@ date: 2021-05-20T20:59:54+10:00
 ### Aikido in the west of England
 
 [Aikido Katokan Bristol](http://aikidobristol.org/)
-
-## Admin Links
-
-[Training records](https://1drv.ms/f/s!AkQmj251RKg7gdsCbe-2xovqHMlhrw)
-

@@ -96,10 +96,16 @@ url = "teachers"
 weight = 10
 
 [[menu.main]]
+identifier = "videos"
+name = "Videos"
+url = "videos"
+weight = 11
+
+[[menu.main]]
 identifier = "links"
 name = "Links"
 url = "links"
-weight = 11
+weight = 12
 
 #################### default parameters ################################
 [params]
